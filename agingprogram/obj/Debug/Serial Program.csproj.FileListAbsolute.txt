@@ -1,0 +1,16 @@
+C:\Users\TEST PC\Documents\01.project\SS aging\06.software\agingprogram\agingprogram\bin\Debug\agingprogram.exe.config
+C:\Users\TEST PC\Documents\01.project\SS aging\06.software\agingprogram\agingprogram\bin\Debug\agingprogram.exe
+C:\Users\TEST PC\Documents\01.project\SS aging\06.software\agingprogram\agingprogram\bin\Debug\agingprogram.pdb
+C:\Users\TEST PC\Documents\01.project\SS aging\06.software\agingprogram\agingprogram\obj\Debug\Serial Program.csprojResolveAssemblyReference.cache
+C:\Users\TEST PC\Documents\01.project\SS aging\06.software\agingprogram\agingprogram\obj\Debug\MainWindow.g.cs
+C:\Users\TEST PC\Documents\01.project\SS aging\06.software\agingprogram\agingprogram\obj\Debug\PageSerialPort.g.cs
+C:\Users\TEST PC\Documents\01.project\SS aging\06.software\agingprogram\agingprogram\obj\Debug\App.g.cs
+C:\Users\TEST PC\Documents\01.project\SS aging\06.software\agingprogram\agingprogram\obj\Debug\agingprogram_MarkupCompile.cache
+C:\Users\TEST PC\Documents\01.project\SS aging\06.software\agingprogram\agingprogram\obj\Debug\agingprogram_MarkupCompile.lref
+C:\Users\TEST PC\Documents\01.project\SS aging\06.software\agingprogram\agingprogram\obj\Debug\MainWindow.baml
+C:\Users\TEST PC\Documents\01.project\SS aging\06.software\agingprogram\agingprogram\obj\Debug\PageSerialPort.baml
+C:\Users\TEST PC\Documents\01.project\SS aging\06.software\agingprogram\agingprogram\obj\Debug\agingprogram.g.resources
+C:\Users\TEST PC\Documents\01.project\SS aging\06.software\agingprogram\agingprogram\obj\Debug\agingprogram.Properties.Resources.resources
+C:\Users\TEST PC\Documents\01.project\SS aging\06.software\agingprogram\agingprogram\obj\Debug\Serial Program.csproj.GenerateResource.Cache
+C:\Users\TEST PC\Documents\01.project\SS aging\06.software\agingprogram\agingprogram\obj\Debug\agingprogram.exe
+C:\Users\TEST PC\Documents\01.project\SS aging\06.software\agingprogram\agingprogram\obj\Debug\agingprogram.pdb
